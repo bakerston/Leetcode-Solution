@@ -1,0 +1,24 @@
+## 261. Graph Valid Tree
+
+思路：当且仅当边数量 = 节点数量 - 1并且整图只有一块连通时，图可以转换为树。
+
+```
+def validTree(self, n: int, edges: List[List[int]]) -> bool:
+        if len(edges) != n - 1:
+            return False
+        seen = set()
+        dq = collections.deque()
+        graph = [set() for _ in range(n)]
+        for i, j in edges:
+            graph[i].add(j)
+            graph[j].add(i)
+        seen.add(0)
+        dq.append(0)
+        while dq:
+            cur = dq.popleft()
+            for cand in graph[cur]:
+                if cand not in seen:
+                    dq.append(cand)
+                    seen.add(cand)
+        return len(seen) == n
+``` 
