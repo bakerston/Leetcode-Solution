@@ -21,6 +21,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 >>## 1856 : https://leetcode.com/problems/maximum-subarray-min-product/discuss/1198704/python-3-explanation-with-picture-on-time
 >>## Trie : https://github.com/bakerston/LeetCodeSolution/blob/main/LeetCode/1-500/208.%20Implement%20Trie%20(Prefix%20Tree).md
 
+
+## Chi
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bakerston/LeetCodeSolution/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
