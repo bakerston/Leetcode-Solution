@@ -16,3 +16,4 @@
 ## Leetcode Discuss
 >>## KMP : https://leetcode.com/problems/longest-happy-prefix/discuss/1159846/Python-3-KMP-algorithm
 >>## 1856 : https://leetcode.com/problems/maximum-subarray-min-product/discuss/1198704/python-3-explanation-with-picture-on-time
+>>## Trie : 
