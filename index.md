@@ -6,27 +6,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Problems
+>>## 1 - 500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500
 
-```markdown
-Syntax highlighted code block
+>>## 501 - 1000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/501-1000
 
-# Header 1
-## Header 2
-### Header 3
+>>## 1001 - 1500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1001-1500
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>>## 1501 - 2000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1501-2000
+---
+---
+## Leetcode Discuss
+>>## KMP : https://leetcode.com/problems/longest-happy-prefix/discuss/1159846/Python-3-KMP-algorithm
+>>## 1856 : https://leetcode.com/problems/maximum-subarray-min-product/discuss/1198704/python-3-explanation-with-picture-on-time
+>>## Trie : https://github.com/bakerston/LeetCodeSolution/blob/main/LeetCode/1-500/208.%20Implement%20Trie%20(Prefix%20Tree).md
 
 ### Jekyll Themes
 
