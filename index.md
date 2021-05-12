@@ -4,25 +4,22 @@ You can use the [editor on GitHub](https://github.com/bakerston/LeetCodeSolution
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Problems
+## 1 - 500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500
 
-## Problems
->>## 1 - 500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500
+## 501 - 1000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/501-1000
 
->>## 501 - 1000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/501-1000
+## 1001 - 1500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1001-1500
 
->>## 1001 - 1500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1001-1500
+## 1501 - 2000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1501-2000
 
->>## 1501 - 2000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1501-2000
----
----
-## Leetcode Discuss
->>## KMP : https://leetcode.com/problems/longest-happy-prefix/discuss/1159846/Python-3-KMP-algorithm
->>## 1856 : https://leetcode.com/problems/maximum-subarray-min-product/discuss/1198704/python-3-explanation-with-picture-on-time
->>## Trie : https://github.com/bakerston/LeetCodeSolution/blob/main/LeetCode/1-500/208.%20Implement%20Trie%20(Prefix%20Tree).md
+### Leetcode Discuss
+## KMP : https://leetcode.com/problems/longest-happy-prefix/discuss/1159846/Python-3-KMP-algorithm
+## 1856 : https://leetcode.com/problems/maximum-subarray-min-product/discuss/1198704/python-3-explanation-with-picture-on-time
+## Trie : https://github.com/bakerston/LeetCodeSolution/blob/main/LeetCode/1-500/208.%20Implement%20Trie%20(Prefix%20Tree).md
 
 
-## Chi Zhang
+### Chi Zhang
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bakerston/LeetCodeSolution/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
