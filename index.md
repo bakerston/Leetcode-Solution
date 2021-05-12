@@ -5,9 +5,8 @@ You can use the [editor on GitHub](https://github.com/bakerston/LeetCodeSolution
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-CNMDSBCXY
 ### Problems
-## 1 - 500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500
+## [1 - 500 ](https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500)
 
 ## 501 - 1000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/501-1000
 
