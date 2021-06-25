@@ -4,7 +4,7 @@
 
 ## Leetcode 
 ### Problems
-#### 1 - 500 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500
+#### [1 - 500](https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500)
 
 #### 501 - 1000 : https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/501-1000
 
