@@ -1,0 +1,3 @@
+No.      | Python     | CPP     | JAVA    
+ -------- | :-----------:  | :-----------: | :-----------: 
+ [1480.Running Sum of 1d Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1001-1500/1480.%20Running%20Sum%20of%201d%20Array.md)     | &radic;   | &radic;  | &radic; 
