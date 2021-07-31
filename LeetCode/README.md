@@ -27,6 +27,7 @@ No.      | Python     | CPP     | JAVA
 No.      | Python     | CPP     | JAVA    
  -------- | :-----------:  | :-----------: | :-----------: 
  [1913. Maximum Product Difference Between Two Pairs](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.md) | &radic;   | &radic;  | &radic; 
+  [1909. Remove One Element to Make the Array Strictly Increasing](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1909.%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.md) | &radic;   | &radic;  | &radic; 
  [1920.Build Array from Permutatio](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1920.%20Build%20Array%20from%20Permutation.md)     | &radic;   | &radic;  | &radic; 
 [1929.Concatenation of Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1929.%20Concatenation%20of%20Array.md) | &radic; | &radic; | &radic;
 [1941. Check if All Characters Have Equal Number of Occurrences](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.md) | &radic; | &radic; | &radic;
