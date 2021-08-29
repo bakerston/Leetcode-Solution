@@ -7,3 +7,4 @@
 [122. Best Time to Buy and Sell Stock II](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | &radic;     | &radic;   | &radic;
 [143. Reorder List](https://github.com/bakerston/CodingContest/new/main/LeetCode/1-500) | &radic;     | &radic;   | &radic;
 [169. Majority Element](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/169.%20Majority%20Element.md) | &radic;     | &radic;   | &radic;
+[330. Patching Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/330.%20Patching%20Array.md) | &radic;     | &radic;   | &radic;
