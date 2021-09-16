@@ -5,3 +5,4 @@
 [708. Insert into a Sorted Circular Linked List](https://github.com/bakerston/CodingContest/new/main/LeetCode/501-1000) | &radic;     | &radic;   | &radic;
 [899. Orderly Queue](https://github.com/bakerston/CodingContest/blob/main/LeetCode/501-1000/899.%20Orderly%20Queue.md) | &radic;     | &radic;   | &radic;
 [932. Beautiful Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/501-1000/932.%20Beautiful%20Array.md) | &radic;     | &radic;   | &radic;
+[978. Longest Turbulent Subarray](https://github.com/bakerston/CodingContest/blob/main/LeetCode/501-1000/978.%20Longest%20Turbulent%20Subarray.md) | &radic;     | &radic;   | &radic;
