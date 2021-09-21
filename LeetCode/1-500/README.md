@@ -8,3 +8,4 @@
 [143. Reorder List](https://github.com/bakerston/CodingContest/new/main/LeetCode/1-500) | &radic;     | &radic;   | &radic;
 [169. Majority Element](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/169.%20Majority%20Element.md) | &radic;     | &radic;   | &radic;
 [330. Patching Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/330.%20Patching%20Array.md) | &radic;     | &radic;   | &radic;
+[485. Max Consecutive Ones](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/485.%20Max%20Consecutive%20Ones.md) | &radic;     | &radic;   | &radic;
