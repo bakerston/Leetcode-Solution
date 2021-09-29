@@ -7,5 +7,6 @@
 [122. Best Time to Buy and Sell Stock II](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | &radic;     | &radic;   | &radic;
 [143. Reorder List](https://github.com/bakerston/CodingContest/new/main/LeetCode/1-500) | &radic;     | &radic;   | &radic;
 [169. Majority Element](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/169.%20Majority%20Element.md) | &radic;     | &radic;   | &radic;
+[325. Maximum Size Subarray Sum Equals k](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/325.%20Maximum%20Size%20Subarray%20Sum%20Equals%20k.md) | &radic;     | &radic;   | &radic;
 [330. Patching Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/330.%20Patching%20Array.md) | &radic;     | &radic;   | &radic;
 [485. Max Consecutive Ones](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/485.%20Max%20Consecutive%20Ones.md) | &radic;     | &radic;   | &radic;
