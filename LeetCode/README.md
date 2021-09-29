@@ -2,7 +2,7 @@
  No.    | Python     | CPP     | JAVA   
  -------- | :-----------:  | :-----------: | :-----------:  
 [1. Two Sum](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/1.%20Two%20Sum.md) | &radic;     | &radic;   | &radic;
-[10.Regular Expression Matching](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/10.%20Regular%20Expression%20Matching.md)   | &radic;     | &radic;   | &radic;
+[10. Regular Expression Matching](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/10.%20Regular%20Expression%20Matching.md)   | &radic;     | &radic;   | &radic;
 [42. Trapping Rain Water](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/42.%20Trapping%20Rain%20Water.md) | &radic;     | &radic;   | &radic;
 [121. Best Time to Buy and Sell Stock](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) | &radic;     | &radic;   | &radic;
 [122. Best Time to Buy and Sell Stock II](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1-500/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) | &radic;     | &radic;   | &radic;
@@ -35,8 +35,8 @@ No.      | Python     | CPP     | JAVA
  -------- | :-----------:  | :-----------: | :-----------: 
  [1909. Remove One Element to Make the Array Strictly Increasing](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1909.%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.md) | &radic;   | &radic;  | &radic; 
  [1913. Maximum Product Difference Between Two Pairs](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.md) | &radic;   | &radic;  | &radic; 
-[1920.Build Array from Permutatio](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1920.%20Build%20Array%20from%20Permutation.md) | &radic;   | &radic;  | &radic; 
-[1929.Concatenation of Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1929.%20Concatenation%20of%20Array.md) | &radic; | &radic; | &radic;
+[1920. Build Array from Permutatio](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1920.%20Build%20Array%20from%20Permutation.md) | &radic;   | &radic;  | &radic; 
+[1929. Concatenation of Array](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1929.%20Concatenation%20of%20Array.md) | &radic; | &radic; | &radic;
 [1941. Check if All Characters Have Equal Number of Occurrences](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1941.%20Check%20if%20All%20Characters%20Have%20Equal%20Number%20of%20Occurrences.md) | &radic; | &radic; | &radic;
 [1944. Number of Visible People in a Queue](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1944.%20Number%20of%20Visible%20People%20in%20a%20Queue.md) | &radic; | &radic; | &radic;
 [1946. Largest Number After Mutating Substring](https://github.com/bakerston/CodingContest/blob/main/LeetCode/1501-2000/1946.%20Largest%20Number%20After%20Mutating%20Substring.md) | &radic; | &radic; | &radic;
