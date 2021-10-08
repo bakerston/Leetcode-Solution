@@ -1,6 +1,3 @@
-My solutions in Python/Cpp/Java with picture explantion for Leetcode Problems.
-
-
 ## LeetCodeSolution
 ---
 ### Selected Leetcode Solutions with Pictures
