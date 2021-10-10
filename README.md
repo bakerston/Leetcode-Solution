@@ -1,4 +1,5 @@
 ## LeetCodeSolution
+![Profile_2021_10_10](https://github.com/bakerston/Leetcode-Solution/blob/main/IMG/lc_profile.PNG)
 ---
 ### Selected Leetcode Solutions with Pictures
 
