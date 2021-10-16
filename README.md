@@ -46,6 +46,12 @@ Fig.1 |  Fig.2 |  Fig.3
 
 [1745. Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/discuss/1045766/python-3-2d-matrix-dp)
 
+[857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/discuss/1106406/Python-3-Min-Heap-O(NlogN)-with-explanation.)
+
+[1739. Building Boxes](https://leetcode.com/problems/building-boxes/discuss/1049929/Python-3)
+
+[1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+
 ---
 ### All Solutions
 [1 - 500](https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500) 
