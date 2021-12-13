@@ -52,6 +52,15 @@ Fig.1 |  Fig.2 |  Fig.3
 
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
+[2098. Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/discuss/1620891/python-3-sort-explanation-with-pictures)
+
+[2102. Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/discuss/1623309/python-explanation-with-pictures-min-heap)
+
+[2100. Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/discuss/1623415/python-explanation-with-pictures-prefix-sum)
+
+[2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/discuss/1624232/python-explanation-with-pictures-2-solutions)
+
+
 ---
 ### All Solutions
 [1 - 500](https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500) 
