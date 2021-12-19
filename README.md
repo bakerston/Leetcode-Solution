@@ -60,7 +60,11 @@ Fig.1 |  Fig.2 |  Fig.3
 
 [2106. Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/discuss/1624232/python-explanation-with-pictures-2-solutions)
 
+[2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/discuss/1630774/python-explanation-with-pictures-binary-search)
 
+[2111. Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/discuss/1635026/python-explanation-with-pictures-lis)
+
+[2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/discuss/1635104/python-explanation-with-pictures)
 ---
 ### All Solutions
 [1 - 500](https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500) 
