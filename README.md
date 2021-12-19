@@ -65,6 +65,9 @@ Fig.1 |  Fig.2 |  Fig.3
 [2111. Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/discuss/1635026/python-explanation-with-pictures-lis)
 
 [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/discuss/1635104/python-explanation-with-pictures)
+
+
+
 ---
 ### All Solutions
 [1 - 500](https://github.com/bakerston/LeetCodeSolution/tree/main/LeetCode/1-500) 
