@@ -66,7 +66,7 @@ Fig.1 |  Fig.2 |  Fig.3
 
 [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/discuss/1635104/python-explanation-with-pictures)
 
-
+[2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/discuss/1661178/explanation-with-pictures)
 
 ---
 ### All Solutions
