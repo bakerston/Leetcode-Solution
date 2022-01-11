@@ -52,6 +52,8 @@ Fig.1 |  Fig.2 |  Fig.3
 
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
 
+[1820. Maximum Number of Accepted Invitations](https://leetcode.com/problems/maximum-number-of-accepted-invitations/discuss/1148092/Python-3Hungarian-Algorithm-with-Graph-explanation)
+
 [2098. Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/discuss/1620891/python-3-sort-explanation-with-pictures)
 
 [2102. Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/discuss/1623309/python-explanation-with-pictures-min-heap)
