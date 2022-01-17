@@ -83,7 +83,7 @@ def mostPoints(self, A: List[List[int]]) -> int:
         return dp[0]
 ```
 
-## 2141. Maximum Running Time of N Computers
+## [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
 > 把电池按照电量排序，只看【电量最大的后n节电池】，把前面的小电池等效为一块电池【outer】。
 > 在这N块电池里，从小到大遍历（【0】【1】【2】... 【n-1】：
 > - 假设我们把【outer】的全部电量都给【0】号电池：
