@@ -82,3 +82,28 @@ def mostPoints(self, A: List[List[int]]) -> int:
             
         return dp[0]
 ```
+
+## 2141. Maximum Running Time of N Computers
+> 把电池按照电量排序，只看【电量最大的后n节电池】，把前面的小电池等效为一块电池【outer】。
+> 在这N块电池里，从小到大遍历（【0】【1】【2】... 【n-1】：
+> - 假设我们把【outer】的全部电量都给【0】号电池：
+>   - 如果【0】的电量仍然不够【1】号电池的电量，说明系统最大的运行时间就是【0】+【outer】
+>   - 否则，我们把【outer】的电量匀出一部分给【0】，使其等于【1】号电量；
+> - 接下来，我们看【outer】剩下的电量，均分给【0】和【1】，看他俩的电量够不够【2】号电池的电量。
+>   - 如果【0】【1】的电量不够【2】号电量，说明系统最大运行时间是 （【1】+【2】+【outer】）/2,
+>   - 否则，我们把【outer】的电量均出一部分给【0】和【1】，使其等于【2】号电量。
+>   - ....直到分完电量，或者走到最后一块电池【n-1】
+
+#### Python
+```swift
+def maxRunTime(self, n: int, A: List[int]) -> int:
+        A.sort()
+        outer, ans, presum = sum(A[:-n]), 0, 0
+        A = A[-n:]
+
+        for i, x in enumerate(A[:-1]): 
+            presum += x 
+            if A[i + 1] * (i + 1) - presum > outer: 
+                return (presum + outer) // (i + 1)
+        return (presum + A[-1] + outer) // n
+```
