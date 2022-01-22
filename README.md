@@ -1,6 +1,22 @@
-## LeetCodeSolution
-![Profile_2021_10_10](https://github.com/bakerston/Leetcode-Solution/blob/main/IMG/lc_profile.PNG)
+# LeetCodeSolution
+
+## LeetCode Contest
+### [Biweekly Contest 70](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Biweekly%20Contest%2070.md)
+
+### [Weekly Contest 276](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Weekly%20Contest%20276.md)
+
+
+
+
+
+
 ---
+### Profile
+
+![Profile_2021_10_10](https://github.com/bakerston/Leetcode-Solution/blob/main/IMG/lc_profile.PNG)
+
+---
+
 ### Selected Leetcode Solutions with Pictures
 
 [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/discuss/1344908/C%2B%2BJavaPython-3-DP-Explanation-with-pictures.)
