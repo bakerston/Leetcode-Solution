@@ -60,8 +60,7 @@ def asteroidsDestroyed(self, mass: int, A: List[int]) -> bool:
 
 > [LeetCode题解](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/discuss/1661178/Explanation-with-pictures.)\
 > 连乘所有插板方法数量，取1E9+7的余即可\
-> 如果没有沙发，或者沙发的数量是奇数，说明没有方法可以分割房间，返回0。
-
+> 如果没有沙发，或者沙发的数量是奇数，fg，返回0。
 #### Python
 ```swift
 def numberOfWays(self, A: str) -> int:
