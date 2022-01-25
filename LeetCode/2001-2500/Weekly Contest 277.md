@@ -80,7 +80,7 @@ vector<int> findLonely(vector<int>& A) {
 ### 两种方法：
 
 
-> - Bitmask + 暴力求解
+### Bitmask + 暴力求解
 > 注意到最多15个人，每个人可能是好人（1）或者坏人（0），用二进制来表示每个人的状态，需要考虑2^15 ~ 30000种可能。\
 > 对于每种可能，我们需要检查每一个好人对于其他人的所有评价\
 > **（不需要考虑坏人的评价，因为我们无法判断坏人评价是对还是错**\
@@ -120,5 +120,5 @@ def maximumGood(self, A: List[List[int]]) -> int:
 
 
 
-> - Bit-mask + DFS
+### Bit-mask + DFS
 
