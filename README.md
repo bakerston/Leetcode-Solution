@@ -12,6 +12,7 @@
 
 ### [Weekly Contest 272](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Weekly%20Contest%20272.md)
 
+### [Weekly Contest 260](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Weekly%20Contest%20260.md)
 ---
 ### Profile
 
