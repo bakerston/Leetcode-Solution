@@ -157,7 +157,7 @@ def placeWordInCrossword(self, A: List[List[str]], word: str) -> bool:
 
 ## [2019. The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
 
-> [我的LeetCode题解](https://leetcode.com/problems/the-score-of-students-solving-math-expression/discuss/1486306/PythonJava-Explanation-with-pictures-DP)
+> [我的LeetCode题解](https://leetcode.com/problems/the-score-of-students-solving-math-expression/discuss/1486306/PythonJava-Explanation-with-pictures-DP)\
 > DP。
 
 #### Java
