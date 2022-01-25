@@ -77,7 +77,48 @@ vector<int> findLonely(vector<int>& A) {
 
 ## [2151. Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
 
-> 两种方法：
-> - 暴力求解
+### 两种方法：
+
+
+> - Bitmask + 暴力求解
+> 注意到最多15个人，每个人可能是好人（1）或者坏人（0），用二进制来表示每个人的状态，需要考虑2^15 ~ 30000种可能。\
+> 对于每种可能，我们需要检查每一个好人对于其他人的所有评价\
+> **（不需要考虑坏人的评价，因为我们无法判断坏人评价是对还是错**\
+> 比如说：
+> 某个二进制数“1000100...”，第一个人是好人（1），我们需要看他对于剩下所有人的评价\
+> - 如果一个其他人是好人（比如这个二进制数的第五位），但是A[0][4]是0----表示第一个人说第五个人是坏人，与事实相悖，说明这个二进制数不是正确的。
+> - 如果一个其他人是坏人（比如这个二进制数的第二位），但是A[0][1]是1----表示第一个人说第二个人是好人，同样与事实相悖，说明这个二进制数不是正确的。
+> 如果两种情况都没发生，说明至少对于第一个人，这个二进制数是正确的。
+> 我们遍历这个二进制中所有好人位，如果每一个好人都能通过上述的检查，说明这个二进制是正确的。我们找出二进制中有多少位1，也就是好人的数量。
+> 我们穷举所有的N位二进制数（长度不够N的，前面加0补齐），找出1位最多的【正确的】二进制数。
+
+#### Python
+```swift
+def maximumGood(self, A: List[List[int]]) -> int:
+        n = len(A)
+        def helper(num):
+            res = bin(num)[2:]
+            return "0" * (n - len(res)) + res
+        ans = 0
+        for num in range(2**n):
+            curr = helper(num)
+            wrong = False
+            for i, x in enumerate(curr):
+                if wrong:
+                    continue
+                if x == "1":
+                    for j in range(n):
+                        if (curr[j] == "0" and A[i][j] == 1)\
+                        or (curr[j] == "1" and A[i][j] == 0):
+                            wrong = True
+                            continue
+                if wrong: continue
+            if not wrong:
+                ans = max(ans, collections.Counter(curr)["1"])
+        return ans
+```
+
+
+
 > - Bit-mask + DFS
 
