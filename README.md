@@ -16,9 +16,8 @@
 
 ### [Biweekly Contest 61](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Biweekly%20Contest%2061.md)
 ---
-### Profile
 
-![Profile_2021_10_10](https://github.com/bakerston/Leetcode-Solution/blob/main/IMG/lc_profile.PNG)
+### [My LeetCode Profile](https://leetcode.com/Bakerston/)
 
 ---
 
