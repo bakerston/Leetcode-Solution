@@ -52,7 +52,7 @@ vector<int> rearrangeArray(vector<int>& nums) {
 
 ## [2150. Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)
 
-> 数组排序，对于每一个数，看它是否跟左右邻居的差值都大于1，如果是，则为longly number。
+> 数组排序，对于每一个数，看它是否跟左右邻居的差值都大于1，如果是，则为lonely number。
 
 #### C++
 ```swift
