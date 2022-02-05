@@ -76,7 +76,7 @@ def minCostSetTime(self, start: int, mC: int, pC: int, TS: int) -> int:
 ## [2163. Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)
 
 
-> [我的LeetCode题解](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/discuss/1747222/Python-Be-careful-with-some-annoying-edge-cases.)\
+> [我的LeetCode题解](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/discuss/1747029/python-explanation-with-pictures-priority-queue)\
 > 思路类似找prefix和suffix。\
 > 假设原数组长度为**3n**，我们需要找出长度均为n的两个子数组（假设为A和B，A在B前），使得sum(A)-sum(B)最小。\
 > 我们把原数组分为两部分，从这两部分里找出A和B来，显然，两部分的长度都要大于等于**n**。\
