@@ -9,7 +9,7 @@
 > 数组切片，正序、倒序排列。
 
 #### **Python**
-```swift
+```python3
 def sortEvenOdd(self, A):
         A[::2], A[1::2] = sorted(A[::2]), sorted(A[1::2])[::-1]
         return A
@@ -22,7 +22,7 @@ def sortEvenOdd(self, A):
 > - 如果num小于0，把num所有数字从大到小排序，输出该数（加负号）即可，比如-12304换成-43210
 
 #### Python
-```swift
+```python3
 def smallestNumber(self, num: int) -> int:
         if num == 0: return 0
         pos = num > 0
@@ -45,7 +45,7 @@ def smallestNumber(self, num: int) -> int:
 > 一些比较基础的bitwise operation
 
 #### Python
-```swift
+```python3
 class Bitset:
 
     def __init__(self, size: int):
@@ -87,7 +87,7 @@ class Bitset:
 
 #### Python
 
-```swift
+```python3
 def minimumTime(self, A: str) -> int:
         n = len(A)
         if n == 1: return 1 if A == '1' else 0
