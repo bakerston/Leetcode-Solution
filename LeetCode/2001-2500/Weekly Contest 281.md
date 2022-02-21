@@ -38,7 +38,7 @@ func countEven(num int) int {
 #### Go
 ```go
 func mergeNodes(h *ListNode) *ListNode {
-    hh := new(ListNode)
+        hh := new(ListNode)
 	a := hh
 	for h != nil {
 		if h.Val != 0 {
