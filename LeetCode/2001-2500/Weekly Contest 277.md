@@ -1,6 +1,6 @@
 # Weekly Contest 277  
 
-举铁，没参加。幸好没参加，最后一题照我后来做出来的速度，估计名次1000+了。
+未参加
 
 ## [2148. Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/)
 
