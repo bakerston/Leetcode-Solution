@@ -2,6 +2,8 @@
 
 ## LeetCode Contest
 
+### [Biweekly Contest 73](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Biweekly%20Contest%2073.md)
+
 ### [Weekly Contest 281](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Weekly%20Contest%20281.md)
 
 ### [Biweekly Contest 72](https://github.com/bakerston/Leetcode-Solution/blob/main/LeetCode/2001-2500/Biweekly%20Contest%2072.md)
