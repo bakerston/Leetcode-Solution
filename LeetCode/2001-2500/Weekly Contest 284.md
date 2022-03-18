@@ -2,7 +2,7 @@
 
 完成4题，用时1:09:39\
 0次错误，总成绩1:09:39\
-[排名 **299/25676**](https://leetcode.com/contest/weekly-contest-284/ranking/4/)
+[排名 **163/17193**](https://leetcode.com/contest/weekly-contest-284/ranking/4/)
 
 ## [2200. Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/)
 
